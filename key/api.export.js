@@ -1,0 +1,7 @@
+// Add API keys here.
+module.exports = {
+  KEY: '7t6tdy9xIPLBRciEkSmuxgGkUMweCI0pfPNaGBPs9esnqhZuw8OgHX0ZPdC5aA8w',
+  SECRET: '7vsU62YQKP2zIYrVSSerSavvEk5DC17AqsV9yAVLfRMZtPKNWBIAXFRQJADJRWMZ',
+  TEST_KEY: 'pNM7YkHRCtmDLmunhJjuDx6lOvbE8S3IuxHEtIk91mxpR9urVvGWB4H2fPbEqP3I',
+  TEST_SECRET: 'egXKl9wcRAymwHlVXFP31kqIu4q1f8akpLhoEkoziq1XV0wd2PkmkOrvKB5ZFZFt'
+}
